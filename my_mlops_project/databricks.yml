@@ -28,13 +28,11 @@ targets:
       # TODO: add dev workspace URL
       host:
 
-
-
-  abdi_staging_dabs:
+  staging:
     workspace:
       host: https://adb-984752964297111.11.azuredatabricks.net
 
-  abdi_production_dabs:
+  prod:
     workspace:
       host: https://adb-984752964297111.11.azuredatabricks.net
 
